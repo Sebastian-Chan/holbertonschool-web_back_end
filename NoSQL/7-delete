@@ -1,0 +1,2 @@
+// BORRA TODOS LOS DOCUMENTOS CON nombre=holb school EN COLECCION SCOOL
+db.school.deleteMany({name: "Holberton school"})

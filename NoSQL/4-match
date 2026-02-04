@@ -1,0 +1,2 @@
+// LISTA TODOS LOS DOCUMENTOS CON nombre = holb school
+db.school.find({ name: "Holberton school" })

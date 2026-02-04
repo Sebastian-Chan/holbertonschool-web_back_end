@@ -1,0 +1,2 @@
+// AGREGA UN NUEVO ATRIBUTO A UN DOCUMENTO EN LA SOLECCION school
+db.school.update({ name: "Holberton school" },{$set: {address: "972 Mission street"}},{multi: true})

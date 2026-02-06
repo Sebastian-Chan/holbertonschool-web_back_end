@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 "CODIGO PY QUE DA stats ACERCA DE logs de Nginx EN MongoDB"
 from pymongo import MongoClient
 

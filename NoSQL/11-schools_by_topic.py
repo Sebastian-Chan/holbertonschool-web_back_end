@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 "FUNCION PY QUE DEVUELVE LA LISTA DE school QUE TIENEN UN TOPIC ESPECÍFICO"
 
 def schools_by_topic(mongo_collection, topic):
